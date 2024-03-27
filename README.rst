@@ -7,7 +7,7 @@ Awesome Public Datasets
 
 This is a list of `topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
-Most of the data sets listed below are free, however, some are not.
+Most of the data sets `company setup in abu dhabi mainland <https://neejacs.com/business-setup-in-abu-dhabi-mainland/>`, however, some are not.
 This project was incubated at `OMNILab <https://github.com/OMNILab>`_, Shanghai Jiao Tong University during Xiaming Chen's Ph.D. studies.
 OMNILab is now part of the `BaiYuLan Open AI community <https://github.com/Bai-Yu-Lan>`_.
 Other amazingly awesome lists can be found in `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
